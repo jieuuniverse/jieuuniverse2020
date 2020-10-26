@@ -40,12 +40,13 @@ body a{
 .container{
   max-width:950px;
   background-color:#fff;
-  padding-left:15px;
+  padding-left:10px;
   padding-bottom:30px;
 }
 
 .grid{
   margin-top:7%;
+ margin-bottom:50px;
 }
 
 .img-grid{
@@ -54,7 +55,8 @@ body a{
 }
 
 .footer{
-  position: bottom;
+  position: fixed;
+  bottom:15px;
   width:100%;
   color:#000;
   font-family: 'Roboto', sans-serif;
@@ -231,7 +233,8 @@ p a:hover{
   padding:10%;
 }
 
-
+.row:before, .row:after {display: none !important;}
+	
 
 /*** START OF MEDIA QUERIES!!!! ***/
 @media screen and (min-width: 1280px) {
