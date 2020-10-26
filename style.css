@@ -54,8 +54,7 @@ body a{
 }
 
 .footer{
-  position: fixed;
-  bottom:15px;
+  position: bottom;
   width:100%;
   color:#000;
   font-family: 'Roboto', sans-serif;
