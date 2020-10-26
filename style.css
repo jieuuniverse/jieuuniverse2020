@@ -57,10 +57,11 @@ body a{
 .footer{
   position: fixed;
   bottom:15px;
+  width:100%;
   color:#000;
   font-family: 'Roboto', sans-serif;
   font-weight:400i;
-  font-size:25px;
+  font-size:9.5px;
   text-align:center;
 }
 
