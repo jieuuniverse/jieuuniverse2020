@@ -54,15 +54,13 @@ body a{
 }
 
 .footer{
-  padding-top:20px;
+  position: fixed;
   padding-bottom:10px;
   color:#000;
   font-family: 'Roboto', sans-serif;
   font-weight:400i;
   font-size:9.5px;
   text-align:center;
-  width: 100%;
-  position: fixed;
 }
 
 h1{
