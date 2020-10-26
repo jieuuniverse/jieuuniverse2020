@@ -54,7 +54,6 @@ body a{
 }
 
 .footer{
-  position: fixed;
   bottom:15px;
   width:100%;
   color:#000;
@@ -62,6 +61,7 @@ body a{
   font-weight:400i;
   font-size:9.5px;
   text-align:center;
+  position: bottom;
 }
 
 h1{
